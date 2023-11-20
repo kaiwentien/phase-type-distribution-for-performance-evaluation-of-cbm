@@ -1,3 +1,5 @@
-# phase-type-distribution-for-performance-evaluation-of-cbm
-Title: Phase-type Distribution Models for Performance Evaluation of Condition-based Maintenance /n
-This repository is used for reproducibility peport.
+# Phase-type-distribution-for-performance-evaluation-of-cbm
+* **Title**: Phase-type Distribution Models for Performance Evaluation of Condition-based Maintenance
+* **Author**: Kai-Wen Tien
+* F**irst release date**: 11/20/2023
+* **Usage**: This repository is used for reproducibility peport.
